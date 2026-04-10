@@ -1,0 +1,6 @@
+/vendor/
+/.idea/
+/.vscode/
+/phpstan-baseline.neon
+/.phpunit.cache/
+composer.lock
